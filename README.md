@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am an MSc analytics student at Georgia Institute of Technology. I'm interested in applying data in 2 areas. Real estate, and national security issues . I am well versed in Python and R <br><br>fun fact- i'm currently a reservist in the Canadian Army
+Current Analytics student at Georgia Institute of Technology. 
 
+Interested in applying ML in 2 areas: 
+
+- Real Estate
+- National Security Issues
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martin-so-a26b88140/) 
